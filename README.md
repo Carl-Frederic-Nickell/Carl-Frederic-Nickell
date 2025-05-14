@@ -1,5 +1,5 @@
 # Carl Frederic Nickell
-
+![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
 ## DevOps & Cybersecurity Enthusiast | Von Content zu Code
 
 Social Media Stratege auf dem Weg zum DevOps Engineer. Ich verbinde Kommunikationsexpertise mit technischer Innovation für skalierbare digitale Lösungen. Mit Wurzeln im Marketing, Finance und der Fotografie baue ich meine Leidenschaft für IT-Themen zu meinem Beruf aus.
@@ -18,7 +18,7 @@ Mein Ziel ist es, meine strategische Denkweise und technischen Fähigkeiten im B
 ---
 
 ### 🔗 Verbindungen
-- 🌐 [Portfolio](https://carl-cyber.tech)
+- 🌐 [Portfolio](https://carl-cyber.tech) - Auf meiner Webseite findest du eine Auswahl an aktuellen Projekten.
 - 🎧 [SoundCloud](https://soundcloud.com/follow_carl) - Meine Leidenschaft für elektronische Musik als Techno-DJ
 
 ---
