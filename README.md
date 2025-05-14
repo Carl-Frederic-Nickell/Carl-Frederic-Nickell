@@ -1,16 +1,26 @@
-## Hi there 👋
+# Carl Frederic Nickell
 
-<!--
-**Carl-Frederic-Nickell/Carl-Frederic-Nickell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DevOps & Cybersecurity Enthusiast | Von Content zu Code
 
-Here are some ideas to get you started:
+Social Media Stratege auf dem Weg zum DevOps Engineer. Ich verbinde Kommunikationsexpertise mit technischer Innovation für skalierbare digitale Lösungen. Mit Wurzeln im Marketing, Finance und der Fotografie baue ich meine Leidenschaft für IT-Themen zu meinem Beruf aus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mein Hintergrund bei der Bundeswehr prägt meine Disziplin und Zielstrebigkeit. Aktuell fokussiere ich mich auf:
+
+- Container-Management & Orchestrierung
+- Cloud-Infrastruktur & IaC
+- Automatisierung von IT-Prozessen
+- Cybersecurity-Praktiken & Ethical Hacking
+
+In meinem Homelab entwickle ich praxisnahe Projekte, um meine Fähigkeiten kontinuierlich zu erweitern. Besonders faszinieren mich die Schnittstellen zwischen DevOps-Praktiken und Sicherheitskonzepten.
+
+Mein Ziel ist es, meine strategische Denkweise und technischen Fähigkeiten im Bereich der Cybersecurity einzusetzen, um kritische Infrastrukturen zu schützen und einen positiven Beitrag zur digitalen Sicherheit zu leisten.
+
+---
+
+### 🔗 Verbindungen
+- 🌐 [Portfolio](https://carl-cyber.tech)
+- 🎧 [SoundCloud](https://soundcloud.com/follow_carl) - Meine Leidenschaft für elektronische Musik als Techno-DJ
+
+---
+
+> *"Aus Leidenschaft wird Berufung - kontinuierliches Lernen ist mein Weg."*
