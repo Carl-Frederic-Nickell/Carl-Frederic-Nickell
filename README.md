@@ -1,4 +1,4 @@
-# Carl Frederic Nickell
+# Carl-Frederic Nickell
 ![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
 ## DevOps & Cybersecurity Enthusiast | Von Content zu Code
 
