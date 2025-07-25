@@ -1,26 +1,26 @@
 # Carl-Frederic Nickell
 ![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
-## DevOps & Cybersecurity Enthusiast | Von Content zu Code
 
-Social Media Stratege auf dem Weg zum DevOps Engineer. Ich verbinde Kommunikationsexpertise mit technischer Innovation für skalierbare digitale Lösungen. Mit Wurzeln im Marketing, Finance und der Fotografie baue ich meine Leidenschaft für IT-Themen zu meinem Beruf aus.
+## DevOps & Cybersecurity Enthusiast | From Content to Code
 
-Mein Hintergrund bei der Bundeswehr prägt meine Disziplin und Zielstrebigkeit. Aktuell fokussiere ich mich auf:
+Social Media Strategist transitioning to DevOps Engineer. I combine communication expertise with technical innovation to build scalable digital solutions. With roots in marketing, finance, and photography, I'm transforming my passion for IT into my profession.
 
-- Container-Management & Orchestrierung
-- Cloud-Infrastruktur & IaC
-- Automatisierung von IT-Prozessen
-- Cybersecurity-Praktiken & Ethical Hacking
+My military background has shaped my discipline and determination. Currently, I'm focused on:
+- Container Management & Orchestration
+- Cloud Infrastructure & Infrastructure as Code (IaC)
+- IT Process Automation
+- Cybersecurity Practices & Ethical Hacking
 
-In meinem Homelab entwickle ich praxisnahe Projekte, um meine Fähigkeiten kontinuierlich zu erweitern. Besonders faszinieren mich die Schnittstellen zwischen DevOps-Praktiken und Sicherheitskonzepten.
+In my homelab, I develop hands-on projects to continuously expand my skills. I'm particularly fascinated by the intersection of DevOps practices and security concepts.
 
-Mein Ziel ist es, meine strategische Denkweise und technischen Fähigkeiten im Bereich der Cybersecurity einzusetzen, um kritische Infrastrukturen zu schützen und einen positiven Beitrag zur digitalen Sicherheit zu leisten.
-
----
-
-### 🔗 Verbindungen
-- 🌐 [Portfolio](https://carl-cyber.tech) - Auf meiner Webseite findest du eine Auswahl an aktuellen Projekten.
-- 🎧 [SoundCloud](https://soundcloud.com/follow_carl) - Meine Leidenschaft für elektronische Musik als Techno-DJ
+My goal is to leverage my strategic mindset and technical skills in cybersecurity to protect critical infrastructures and make a positive contribution to digital security.
 
 ---
 
-> *"Aus Leidenschaft wird Berufung - kontinuierliches Lernen ist mein Weg."*
+### 🔗 Connect
+- 🌐 [Portfolio](https://carl-cyber.tech) - Explore my latest projects on my website
+- 🎧 [SoundCloud](https://soundcloud.com/follow_carl) - My passion for electronic music as a Techno DJ
+
+---
+
+> *"Passion becomes purpose - continuous learning is my path."*
