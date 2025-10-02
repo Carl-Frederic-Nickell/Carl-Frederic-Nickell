@@ -1,8 +1,8 @@
 # Carl-Frederic Nickell
 
-**DevOps & Cloud Security Engineer | AWS CP ☁️ | Google Cybersecurity 🛡️ | Linux Essentials 🐧**
-
 ![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
+
+**DevOps & Cloud Security Engineer (transition)** | AWS CP ☁️ | Google Cybersecurity 🛡️ | Linux Essentials 🐧
 
 **Stack:** AWS • Docker • Terraform • Bash • Python • n8n • GitHub Actions • YARA
 
