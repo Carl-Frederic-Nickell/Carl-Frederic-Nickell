@@ -1,26 +1,26 @@
 # Carl-Frederic Nickell
 ![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
 
-## DevOps & Cybersecurity Enthusiast | From Content to Code
+**DevOps & Cloud Security Engineer** | AWS CP ☁️ | Google Cybersecurity 🛡️ | Linux Essentials 🐧
 
-Social Media Strategist transitioning to DevOps Engineer. I combine communication expertise with technical innovation to build scalable digital solutions. With roots in marketing, finance, and photography, I'm transforming my passion for IT into my profession.
+**Stack:** AWS • Docker • Terraform • Bash • Python • n8n • GitHub Actions • YARA
+**Certs:** AWS Cloud Practitioner | Google Cybersecurity Professional | Linux Essentials (LPI)
+**Path:** CloudHelden DevOps Engineer (Q1 2026) → CompTIA Security+ (Q4 2025) → OSEP
 
-My military background has shaped my discipline and determination. Currently, I'm focused on:
-- Container Management & Orchestration
-- Cloud Infrastructure & Infrastructure as Code (IaC)
-- IT Process Automation
-- Cybersecurity Practices & Ethical Hacking
+Former **Social Media Manager @ BDK Bank (Société Générale)** – automated 60% of reporting workflows, grew followers 200%, led cross-functional infrastructure projects.
 
-In my homelab, I develop hands-on projects to continuously expand my skills. I'm particularly fascinated by the intersection of DevOps practices and security concepts.
+Now converting **5 years of data-driven automation** into secure, scalable cloud infrastructure.
 
-My goal is to leverage my strategic mindset and technical skills in cybersecurity to protect critical infrastructures and make a positive contribution to digital security.
+### Recent Projects
+- **[Dotfiles](https://github.com/Carl-Frederic-Nickell/dotfiles)** - Cross-platform DevOps environment automation (IaC, security-first configs)
+- **Multi-cloud monitoring** - Real-time metrics with ML-based anomaly detection (Python, Prometheus, Grafana)
+- **Production CI/CD** - Self-hosted pipeline with Docker + Nginx, zero-downtime deploys
+
+**Military background** (German Armed Forces) → disciplined, process-driven, calm under fire.
+
+🌐 **Blog:** [carl-cyber.tech](https://carl-cyber.tech)
+🎧 **Techno DJ:** [soundcloud.com/follow_carl](https://soundcloud.com/follow_carl)
 
 ---
 
-### 🔗 Connect
-- 🌐 [Portfolio](https://carl-cyber.tech) - Explore my latest projects on my website
-- 🎧 [SoundCloud](https://soundcloud.com/follow_carl) - My passion for electronic music as a Techno DJ
-
----
-
-> *"Passion becomes purpose - continuous learning is my path."*
+> *Hands on the radio – Carl over and out.*
