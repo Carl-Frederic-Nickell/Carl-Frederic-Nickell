@@ -2,7 +2,7 @@
 
 ![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
 
-**DevOps & Cloud Security Engineer (transition)** | AWS CP ☁️ | Google Cybersecurity 🛡️ | Linux Essentials 🐧
+## DevOps & Cloud Security Engineer (transition) | AWS CP ☁️ | Google Cybersecurity 🛡️ | Linux Essentials 🐧
 
 **Stack:** AWS • Docker • Terraform • Bash • Python • n8n • GitHub Actions • YARA
 
@@ -20,6 +20,8 @@ Now converting **5 years of data-driven automation** into secure, scalable cloud
 - **Production CI/CD** - Self-hosted pipeline with Docker + Nginx, zero-downtime deploys
 
 **Military background** (German Armed Forces) → disciplined, process-driven, calm under fire.
+
+### Let's Connect
 
 🌐 **Blog:** Latest post: [From Marketing to DevOps](https://carl-cyber.tech/blog/from-marketing-to-devops-journey-en)
 
