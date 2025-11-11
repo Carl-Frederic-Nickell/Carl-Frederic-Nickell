@@ -1,6 +1,6 @@
 # Carl-Frederic Nickell
 
-![Banner](./20250312_LinkedIn_Profilbanner_DevOps.png)
+![Banner](./20251110_LinkedIn_Profilbanner_Cybersecurity-military-terminal-v5.png)
 
 ## Security Engineer | Ex-Military | AWS ☁️ | Google Cybersecurity 🛡️ | Linux 🐧
 
